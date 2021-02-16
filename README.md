@@ -570,7 +570,7 @@ The sandbox environment is a great way to test offline implementation of Apple P
 ## Apple Pay Button
 
 Provides a button that is used either to trigger payments through Apple Pay or to prompt the user to set up a card.
-[Detailed docs and examples](packages/react-native-payments/docs/ApplePayButton.md)
+[Detailed docs and examples](https://github.com/naoufal/react-native-payments/blob/master/docs/ApplePayButton.md)
 
 ## Add-ons
 Here's a list of Payment Processors that you can enable via add-ons:
